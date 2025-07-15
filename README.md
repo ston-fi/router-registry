@@ -36,8 +36,8 @@ npx blueprint run deployRegistry
 
 ## Documentation
 
-- **[Architecture](.docs/architecture.md)** - Contract structure, methods, and message flows
-- **[Scripts](.docs/scripts.md)** - Usage guide for all interaction scripts
+- **[Architecture](docs/architecture.md)** - Contract structure, methods, and message flows
+- **[Scripts](docs/scripts.md)** - Usage guide for all interaction scripts
 
 ## Key Features
 
@@ -64,4 +64,4 @@ npx blueprint run getAllRouters <registry_address>
 npx blueprint run addRouter <registry_address> <router_address> <version> <type>
 ```
 
-See [Scripts Documentation](.docs/scripts.md) for complete usage guide.
+See [Scripts Documentation](docs/scripts.md) for complete usage guide.
